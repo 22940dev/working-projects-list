@@ -28,6 +28,27 @@
   color: #61dafb;
 }
 
+
+.footer {
+  background-color: black;
+  color: white;
+  margin-top: 1.75rem;
+  max-height: 45px;
+  padding-bottom: 1rem;
+  border-top: 1px solid white;
+  
+}
+
+.footer_copy {
+ font-size: 1.05rem;
+ padding-top: .5rem;
+ text-align: end;
+ margin-right: 2rem;
+ color:white;
+ 
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
