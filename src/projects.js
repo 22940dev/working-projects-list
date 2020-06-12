@@ -571,6 +571,21 @@ const projectsList = [
         b4Logo: false,
         react: true,
         node: false
+    },
+    {
+        name: 'Bookmark Homepage',
+        description: 'Homepage to centralize bookmarks across browsers. ',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/bookmarkHomepage1.png",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/bookmarkHomepage2.png",
+        live: "https://bookmark-page-six.vercel.app/",
+        sample: "https://github.com/SJellen/bookmark-page",
+        htmlLogo: true,
+        cssLogo: true,
+        sass: false,
+        jsLogo: true,
+        b4Logo: false,
+        react: true,
+        node: false
     }
 
 
