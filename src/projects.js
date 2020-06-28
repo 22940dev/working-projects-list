@@ -586,6 +586,21 @@ const projectsList = [
         b4Logo: false,
         react: true,
         node: false
+    },
+    {
+        name: 'Media Shelf',
+        description: 'A page of my media consumption with reviews ',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/myMedia1.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/myMedia2.jpg",
+        live: "https://my-media.vercel.app//",
+        sample: "https://github.com/SJellen/my-media",
+        htmlLogo: true,
+        cssLogo: true,
+        sass: false,
+        jsLogo: true,
+        b4Logo: false,
+        react: true,
+        node: false
     }
 
 
