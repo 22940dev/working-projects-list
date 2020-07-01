@@ -498,6 +498,21 @@ const projectsList = [
         node: false
     },
     {
+        name: 'Another Thing Todo',
+        description: 'A simple React Todo list.',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/anotherThing1.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/anotherThing2.jpg",
+        live: "https://another-thing-todo.vercel.app/",
+        sample: "https://github.com/SJellen/another-thing-todo",
+        htmlLogo: true,
+        cssLogo: true,
+        sass: false,
+        jsLogo: true,
+        b4Logo: false,
+        react: true,
+        node: false
+    },
+    {
         name: 'Star Wars Films',
         description: 'Film data from the Star Wars API.',
         img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/SWAPI1.png",
