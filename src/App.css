@@ -30,17 +30,17 @@
 
 
 .footer {
-  background-color: black;
+  background-color: transparent;
   color: white;
   margin-top: 1.75rem;
   max-height: 45px;
   padding-bottom: 1rem;
-  border-top: 1px solid white;
+  
   
 }
 
 .footer_copy {
- font-size: 1.05rem;
+ font-size: .75rem;
  padding-top: .5rem;
  text-align: end;
  margin-right: 2rem;
