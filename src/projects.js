@@ -183,6 +183,21 @@ const projectsList = [
         node: false
     },
     {
+        name: 'United States GDP',
+        description: 'A bar chart using D3.',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/usGDP.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/usGDP.jpg",
+        live: "https://us-gdp-bar.vercel.app/",
+        sample: "https://github.com/SJellen/US-GDP-bar",
+        htmlLogo: true,
+        cssLogo: true,
+        sass: false,
+        jsLogo: true,
+        b4Logo: false,
+        react: false,
+        node: false
+    },
+    {
         name: 'JsCSS',
         description: 'Using Javascript to control Css inputs.',
         img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/jsCss.png",
@@ -347,6 +362,7 @@ const projectsList = [
         react: false,
         node: false
     },
+    
     {
         name: 'Shortly',
         description: 'Page for a link shortener service.',
