@@ -213,6 +213,21 @@ const projectsList = [
         node: false
     },
     {
+        name: 'Doping in Cycling',
+        description: 'A scatterplot about doping using D3.',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/bikeDoping.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/bikeDoping.jpg",
+        live: "https://bike-doping.vercel.app/",
+        sample: "https://github.com/SJellen/bikeDoping",
+        htmlLogo: true,
+        cssLogo: true,
+        sass: false,
+        jsLogo: true,
+        b4Logo: false,
+        react: false,
+        node: false
+    },
+    {
         name: 'JsCSS',
         description: 'Using Javascript to control Css inputs.',
         img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/jsCss.png",
