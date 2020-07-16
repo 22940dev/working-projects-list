@@ -228,6 +228,21 @@ const projectsList = [
         node: false
     },
     {
+        name: 'Monthly Global Temps',
+        description: 'Monthly Global Surface Land Temps using D3.',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/monthlyGlobal.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/monthlyGlobal.jpg",
+        live: "https://global-temp.vercel.app/",
+        sample: "https://github.com/SJellen/globalTemp",
+        htmlLogo: true,
+        cssLogo: false,
+        sass: true,
+        jsLogo: true,
+        b4Logo: false,
+        react: false,
+        node: false
+    },
+    {
         name: 'JsCSS',
         description: 'Using Javascript to control Css inputs.',
         img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/jsCss.png",
