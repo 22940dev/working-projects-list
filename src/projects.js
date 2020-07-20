@@ -407,6 +407,21 @@ const projectsList = [
         react: false,
         node: false
     },
+    {
+        name: 'Random Programming Quoter',
+        description: 'A programming quote generator.',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/randomQuote2.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/randomQuote1.jpg",
+        live: "https://random-quote-tau.vercel.app/",
+        sample: "https://github.com/SJellen/random-quote",
+        htmlLogo: true,
+        cssLogo: true,
+        sass: false,
+        jsLogo: true,
+        b4Logo: false,
+        react: true,
+        node: false
+    },
     
     {
         name: 'Shortly',
