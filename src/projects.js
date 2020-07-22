@@ -499,6 +499,21 @@ const projectsList = [
         node: false
     },
     {
+        name: 'JSCal',
+        description: 'A Javascipt calculator.',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/JScal1.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/JScal2.jpg",
+        live: "https://js-cal-tau.vercel.app/",
+        sample: "https://github.com/SJellen/JScal",
+        htmlLogo: true,
+        cssLogo: true,
+        sass: false,
+        jsLogo: true,
+        b4Logo: false,
+        react: false,
+        node: false
+    },
+    {
         name: 'Drum Kit',
         description: 'A keyboard drum kit.',
         img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/drumkit1.png",
