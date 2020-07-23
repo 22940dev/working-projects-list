@@ -573,6 +573,21 @@ const projectsList = [
         react: false,
         node: false
     },
+    {
+        name: 'Pocket Drum Machine',
+        description: 'A drum machine in React.',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/pocketDrum1.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/pocketDrum2.jpg",
+        live: "https://drum-machine-xi.vercel.app/",
+        sample: "https://github.com/SJellen/drum-machine",
+        htmlLogo: true,
+        cssLogo: true,
+        sass: false,
+        jsLogo: true,
+        b4Logo: false,
+        react: true,
+        node: false
+    },
 
     {
         name: 'Markdown Previewer',
