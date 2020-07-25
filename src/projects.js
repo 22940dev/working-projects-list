@@ -605,6 +605,21 @@ const projectsList = [
         node: false
     },
     {
+        name: 'Pomodoro Timer',
+        description: 'A pomodoro timer in React.',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/pomodoro1.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/pomodoro2.jpg",
+        live: "https://pomodoro-beta.vercel.app/",
+        sample: "https://github.com/SJellen/pomodoro",
+        htmlLogo: true,
+        cssLogo: true,
+        sass: false,
+        jsLogo: true,
+        b4Logo: false,
+        react: true,
+        node: false
+    },
+    {
         name: 'Terminal Video',
         description: 'Movie search with the OMDB API.',
         img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/terminalVideo1.png",
