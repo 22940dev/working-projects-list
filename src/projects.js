@@ -753,6 +753,21 @@ const projectsList = [
         b4Logo: false,
         react: true,
         node: false
+    },
+    {
+        name: 'Chat App',
+        description: 'A cell phone designed in Sass',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/chatApp1.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/chatApp2.jpg",
+        live: "https://chat-app-beta.vercel.app/",
+        sample: "https://github.com/SJellen/chat-app",
+        htmlLogo: true,
+        cssLogo: false,
+        sass: true,
+        jsLogo: false,
+        b4Logo: false,
+        react: false,
+        node: false
     }
 
 
