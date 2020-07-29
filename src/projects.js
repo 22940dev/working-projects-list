@@ -347,21 +347,21 @@ const projectsList = [
         react: false,
         node: false
     },
-    {
-        name: 'Jammming',
-        description: 'A Spotify playlist creator',
-        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/jammming1.png",
-        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/jammming2.png",
-        live: "https://jammming.sjellen.now.sh/",
-        sample: "https://github.com/SJellen/jammming",
-        htmlLogo: true,
-        cssLogo: true,
-        sass: false,
-        jsLogo: true,
-        b4Logo: false,
-        react: true,
-        node: false
-    },
+    // {
+    //     name: 'Jammming',
+    //     description: 'A Spotify playlist creator',
+    //     img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/jammming1.png",
+    //     img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/jammming2.png",
+    //     live: "https://jammming.sjellen.now.sh/",
+    //     sample: "https://github.com/SJellen/jammming",
+    //     htmlLogo: true,
+    //     cssLogo: true,
+    //     sass: false,
+    //     jsLogo: true,
+    //     b4Logo: false,
+    //     react: true,
+    //     node: false
+    // },
     {
         name: 'Character Study',
         description: 'Travels of fictional characters through different forms of media.',
