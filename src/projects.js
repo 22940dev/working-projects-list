@@ -772,8 +772,8 @@ const projectsList = [
     {
         name: 'Weather Widget',
         description: 'A weather widget using Open Weather API.',
-        img: "https://raw.githubusercontent.com/SJellen/weather/master/screenshots/weather2.jpg?token=AMIKDZIVXR3VWMCTQ2PCYQK7EMAXM",
-        img2: "https://raw.githubusercontent.com/SJellen/weather/master/screenshots/weather1.jpg?token=AMIKDZK5OBXOQ4QSG2R36AK7EMAUA",
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/weather1.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/weather2.jpg",
         live: "https://weather-ashen.vercel.app/",
         sample: "https://github.com/SJellen/weather",
         htmlLogo: true,
