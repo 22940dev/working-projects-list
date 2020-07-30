@@ -769,21 +769,21 @@ const projectsList = [
         react: false,
         node: false
     },
-    {
-        name: 'Weather Widget',
-        description: 'A weather widget using Open Weather API.',
-        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/weather1.jpg",
-        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/weather2.jpg",
-        live: "https://weather-ashen.vercel.app/",
-        sample: "https://github.com/SJellen/weather",
-        htmlLogo: true,
-        cssLogo: true,
-        sass: false,
-        jsLogo: true,
-        b4Logo: false,
-        react: true,
-        node: false
-    }
+    // {
+    //     name: 'Weather Widget',
+    //     description: 'A weather widget using Open Weather API.',
+    //     img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/weather1.jpg",
+    //     img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/weather2.jpg",
+    //     live: "https://weather-ashen.vercel.app/",
+    //     sample: "https://github.com/SJellen/weather",
+    //     htmlLogo: true,
+    //     cssLogo: true,
+    //     sass: false,
+    //     jsLogo: true,
+    //     b4Logo: false,
+    //     react: true,
+    //     node: false
+    // }
 
 
   /*   {
