@@ -783,6 +783,21 @@ const projectsList = [
         b4Logo: false,
         react: true,
         node: false
+    },
+    {
+        name: 'NASA Navigator',
+        description: 'A page for searching NASA\'s image API.',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/nasaNav1.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/nasaNav2.jpg",
+        live: "https://youthful-yonath-b6a4b7.netlify.app/",
+        sample: "https://github.com/SJellen/nasa-pic-board",
+        htmlLogo: true,
+        cssLogo: true,
+        sass: false,
+        jsLogo: true,
+        b4Logo: false,
+        react: true,
+        node: false
     }
 
 
