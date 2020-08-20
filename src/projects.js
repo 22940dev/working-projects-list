@@ -798,6 +798,21 @@ const projectsList = [
         b4Logo: false,
         react: true,
         node: false
+    },
+    {
+        name: 'Harvard Art Museum Explorer',
+        description: 'Explore the images, video and audio of the Harvard Art API',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/harvard1.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/harvard2.jpg",
+        live: "https://modest-albattani-0df9f4.netlify.app/",
+        sample: "https://github.com/SJellen/harvard-gallery",
+        htmlLogo: true,
+        cssLogo: true,
+        sass: false,
+        jsLogo: true,
+        b4Logo: false,
+        react: true,
+        node: false
     }
 
 
