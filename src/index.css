@@ -65,6 +65,34 @@ body {
   transform: skew(5deg, -5deg);
   }
 
+
+
+
+  .icon-box {
+    
+    height: 70px;
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem 1rem 0 1rem;
+    /* border-radius: 20px; */
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: #fff;
+    margin: 0 auto;
+    background-color: black;
+    /* position: absolute; */
+    /* bottom: 30%;
+    left: 30px;
+    overflow:hidden; */
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.7);
+  }
+
+  .FontAwesomeIcon:hover {
+    filter: brightness(125%);
+    cursor: pointer;
+  }
+
   .lang-logo  {
     
     

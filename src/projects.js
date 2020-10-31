@@ -740,21 +740,6 @@ const projectsList = [
         node: false
     },
     {
-        name: 'Media Shelf',
-        description: 'A page of my media consumption with reviews ',
-        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/myMedia1.jpg",
-        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/myMedia2.jpg",
-        live: "https://my-media.vercel.app//",
-        sample: "https://github.com/SJellen/my-media",
-        htmlLogo: true,
-        cssLogo: true,
-        sass: false,
-        jsLogo: true,
-        b4Logo: false,
-        react: true,
-        node: false
-    },
-    {
         name: 'Chat App',
         description: 'A cell phone designed in Sass',
         img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/chatApp1.jpg",
@@ -785,6 +770,21 @@ const projectsList = [
         node: false
     },
     {
+        name: 'Media Shelf',
+        description: 'A page of my media consumption with reviews ',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/myMedia1.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/myMedia2.jpg",
+        live: "https://my-media.vercel.app//",
+        sample: "https://github.com/SJellen/my-media",
+        htmlLogo: true,
+        cssLogo: true,
+        sass: false,
+        jsLogo: true,
+        b4Logo: false,
+        react: true,
+        node: false
+    },
+    {
         name: 'NASA Navigator',
         description: 'A page for searching NASA\'s image API.',
         img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/nasaNav1.jpg",
@@ -806,6 +806,21 @@ const projectsList = [
         img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/harvard2.jpg",
         live: "https://modest-albattani-0df9f4.netlify.app/",
         sample: "https://github.com/SJellen/harvard-gallery",
+        htmlLogo: true,
+        cssLogo: true,
+        sass: false,
+        jsLogo: true,
+        b4Logo: false,
+        react: true,
+        node: false
+    },
+    {
+        name: 'Rick and Morty Dead or Alive',
+        description: 'A Rick and Morty dead or alive game using the Rick and Morty API',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/rm1.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/rm2.jpg",
+        live: "https://rm-doa.vercel.app/",
+        sample: "https://github.com/SJellen/rm-doa",
         htmlLogo: true,
         cssLogo: true,
         sass: false,

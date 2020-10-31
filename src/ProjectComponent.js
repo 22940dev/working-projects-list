@@ -7,6 +7,7 @@ import {  faReact, faJs, faHtml5, faCss3Alt, faSass, faBootstrap, faNodeJs } fro
 
 
 function ProjectComponent() {
+
    
     const projects = projectsList.map(prod => 
         
@@ -42,6 +43,15 @@ function ProjectComponent() {
        
     return (
         <div>
+                {/* <div  id="icon-box" className="icon-box" >  
+                    <FontAwesomeIcon icon={faReact} id="react" size="3x" className="FontAwesomeIcon"/>
+                    <FontAwesomeIcon icon={faJs} id="jsLogo" size="3x" className="FontAwesomeIcon"/>
+                    <FontAwesomeIcon icon={faHtml5} id="htmlLogo" size="3x" className="FontAwesomeIcon"/>
+                    <FontAwesomeIcon icon={faCss3Alt} id="cssLogo" size="3x" className="FontAwesomeIcon"/>
+                    <FontAwesomeIcon icon={faSass} id="sass" size="3x" className="FontAwesomeIcon"/>
+                    <FontAwesomeIcon icon={faBootstrap} id="b4Logo" size="3x" className="FontAwesomeIcon"/>
+                    <FontAwesomeIcon icon={faNodeJs} id="node" size="3x" className="FontAwesomeIcon"/>
+                </div> */}
               {projects}  
         </div>
         
