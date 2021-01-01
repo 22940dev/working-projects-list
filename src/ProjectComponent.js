@@ -33,7 +33,7 @@ function ProjectComponent() {
 
                 <div className="code-btn">
                     <a id="live" href={prod.live}  target="_blank" rel="noopener noreferrer">Live Site</a>
-                    <a id="sample" href={prod.sample}  target="_blank" rel="noopener noreferrer">Code Sample</a>
+                 { prod.sample &&   <a id="sample" href={prod.sample}  target="_blank" rel="noopener noreferrer">Code Sample</a> }
                 </div> 
                 
             </div>  
