@@ -413,7 +413,7 @@ const projectsList = [
         description: 'Travels of fictional characters through different forms of media.',
         img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/csimg3.jpg",
         img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/cStudy2.png",
-        live: "https://characterstudy.live",
+        live: "https://keen-turing-1797a8.netlify.app/",
         sample: "https://github.com/SJellen/cStudySample",
         htmlLogo: true,
         cssLogo: true,
