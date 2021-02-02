@@ -954,6 +954,23 @@ const projectsList = [
         express: false,
         mongoDB: false
     },
+    {
+        name: 'To The Moon',
+        description: 'A Wallstreetbets dashboard with a ticker, news and Twitter reaction.',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/toTheMoon.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/toTheMoon2.jpg",
+        live: "https://tothemoon.vercel.app/",
+        sample: "",
+        htmlLogo: true,
+        cssLogo: true,
+        sass: false,
+        jsLogo: true,
+        b4Logo: true,
+        react: true,
+        node: false,
+        express: false,
+        mongoDB: false
+    }
 
 
     
