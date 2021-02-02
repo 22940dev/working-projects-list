@@ -959,7 +959,7 @@ const projectsList = [
         description: 'A Wallstreetbets dashboard with a ticker, news and Twitter reaction.',
         img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/toTheMoon.jpg",
         img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/toTheMoon2.jpg",
-        live: "https://tothemoon.vercel.app/",
+        live: "https://tothemoon2.vercel.app/",
         sample: "",
         htmlLogo: true,
         cssLogo: true,
