@@ -964,7 +964,7 @@ const projectsList = [
         htmlLogo: true,
         cssLogo: true,
         sass: false,
-        jsLogo: true,
+        jsLogo: false,
         b4Logo: true,
         react: true,
         node: false,
