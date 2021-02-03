@@ -960,7 +960,7 @@ const projectsList = [
         img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/toTheMoon.jpg",
         img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/toTheMoon2.jpg",
         live: "https://tothemoon2.vercel.app/",
-        sample: "",
+        sample: "https://github.com/SJellen/tothemooncode",
         htmlLogo: true,
         cssLogo: true,
         sass: false,
