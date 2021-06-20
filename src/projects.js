@@ -970,6 +970,23 @@ const projectsList = [
         node: false,
         express: false,
         mongoDB: false
+    },
+    {
+        name: 'Sunnyside',
+        description: 'A landing page for Sunnyside agency.',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/sunnyside.png",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/sunnysideMobile.png",
+        live: "https://sunnyside-mu.vercel.app/",
+        sample: "https://github.com/SJellen/sunnyside",
+        htmlLogo: true,
+        cssLogo: false,
+        sass: true,
+        jsLogo: true,
+        b4Logo: false,
+        react: false,
+        node: false,
+        express: false,
+        mongoDB: false
     }
 
 
