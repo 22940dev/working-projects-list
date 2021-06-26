@@ -853,6 +853,23 @@ const projectsList = [
         mongoDB: false
     },
     {
+        name: 'Sunnyside',
+        description: 'A landing page for Sunnyside agency.',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/sunnyside.png",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/sunnysideMobile.png",
+        live: "https://sunnyside-mu.vercel.app/",
+        sample: "https://github.com/SJellen/sunnyside",
+        htmlLogo: true,
+        cssLogo: false,
+        sass: true,
+        jsLogo: true,
+        b4Logo: false,
+        react: false,
+        node: false,
+        express: false,
+        mongoDB: false
+    },
+    {
         name: 'Weather Widget',
         description: 'A weather widget using Open Weather API.',
         img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/weather1.jpg",
@@ -972,22 +989,23 @@ const projectsList = [
         mongoDB: false
     },
     {
-        name: 'Sunnyside',
-        description: 'A landing page for Sunnyside agency.',
-        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/sunnyside.png",
-        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/sunnysideMobile.png",
-        live: "https://sunnyside-mu.vercel.app/",
-        sample: "https://github.com/SJellen/sunnyside",
+        name: 'The Planets',
+        description: 'Fact sheets for all the planets in the solar system.',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/planetFactSheet.png",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/planetFactSheetMobile.png",
+        live: "https://planets-fact-site-five.vercel.app/",
+        sample: "https://github.com/SJellen/planets-fact-site",
         htmlLogo: true,
-        cssLogo: false,
-        sass: true,
+        cssLogo: true,
+        sass: false,
         jsLogo: true,
         b4Logo: false,
-        react: false,
+        react: true,
         node: false,
         express: false,
         mongoDB: false
-    }
+    },
+    
 
 
     
