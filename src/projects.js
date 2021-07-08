@@ -1005,6 +1005,23 @@ const projectsList = [
         express: false,
         mongoDB: false
     },
+    {
+        name: 'Coffee Roasters',
+        description: 'A subscription site for a coffee bean company.',
+        img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/coffeeRoasters.jpg",
+        img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/coffeeRoastersMobile.jpg",
+        live: "https://coffee-roasters-virid.vercel.app/",
+        sample: "https://github.com/SJellen/coffee-roasters",
+        htmlLogo: false,
+        cssLogo: false,
+        sass: true,
+        jsLogo: true,
+        b4Logo: false,
+        react: true,
+        node: false,
+        express: false,
+        mongoDB: false
+    },
     
 
 
