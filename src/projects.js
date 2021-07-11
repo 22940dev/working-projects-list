@@ -960,7 +960,7 @@ const projectsList = [
         img: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/screening1.jpg",
         img2: "https://s3.us-east-2.amazonaws.com/scottjellen.me.projectlist/screening2.jpg",
         live: "https://affectionate-tesla-9555b9.netlify.app/",
-        sample: "",
+        sample: "https://github.com/SJellen/screening",
         htmlLogo: true,
         cssLogo: true,
         sass: false,
